@@ -136,5 +136,4 @@ forward(10)
 hideturtle()
 
 penup()
-
 done()
